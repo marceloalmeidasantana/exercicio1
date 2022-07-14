@@ -57,7 +57,7 @@ class FormExercise extends StatelessWidget {
                   child: const Text('Criar conta'),
                 ),
               ),
-              const Text('Já possui uma conta?        Login'),
+              const Text('Já possui uma conta?         Login'),
               const Text('Ou continuar com'),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
